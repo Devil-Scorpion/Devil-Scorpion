@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devil-Scorpion
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning iOS App Development
+- 🌱 I’m currently learning iOS App & Game Development with Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me scorpion17raymond@gmail.com
 
